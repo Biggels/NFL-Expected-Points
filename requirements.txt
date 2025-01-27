@@ -1,0 +1,7 @@
+notebook
+pandas
+numpy
+notebook
+matplotlib
+seaborn
+nfl-data-py
