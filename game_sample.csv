@@ -1,0 +1,200 @@
+,posteam,posteam_score,defteam_score,time,qtr,down,ydstogo,yrdln,play_type,desc,wp,ep,epa,total_home_epa,total_away_epa
+49117,,,,15:00,1.0,,0.0,PHI 35,,GAME,0.43320796,0.77022237,-0.0,0.0,0.0
+49118,WAS,0.0,0.0,15:00,1.0,,0.0,PHI 35,kickoff,"4-J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback to the WAS 30.",0.43320796,0.77022237,0.25781915,-0.25781915,0.25781915
+49119,WAS,0.0,0.0,15:00,1.0,1.0,10.0,WAS 30,run,(15:00) (Shotgun) 5-J.Daniels scrambles up the middle to WAS 31 for 1 yard (3-N.Smith; 90-J.Davis).,0.43354625,1.0280415,-0.4430089,0.18518974,-0.18518974
+49120,WAS,0.0,0.0,14:25,1.0,2.0,9.0,WAS 31,pass,"(14:25) (No Huddle, Shotgun) 5-J.Daniels pass short right to 86-Z.Ertz to WAS 34 for 3 yards (2-D.Slay).",0.41563025,0.58503264,-0.39886317,0.5840529,-0.5840529
+49121,WAS,0.0,0.0,13:52,1.0,3.0,6.0,WAS 34,pass,"(13:52) (No Huddle, Shotgun) 5-J.Daniels pass short left to 17-T.McLaurin to WAS 41 for 7 yards (27-Q.Mitchell).",0.418461,0.18616945,1.6970978,-1.1130449,1.1130449
+49122,WAS,0.0,0.0,13:31,1.0,1.0,10.0,WAS 41,pass,"(13:31) (No Huddle, Shotgun) 5-J.Daniels pass incomplete short middle to 30-A.Ekeler (93-M.Williams).",0.4548994,1.8832672,-0.5135015,-0.59954333,0.59954333
+49123,WAS,0.0,0.0,13:29,1.0,2.0,10.0,WAS 41,pass,"(13:29) (No Huddle, Shotgun) 5-J.Daniels pass short right to 87-J.Bates to WAS 45 for 4 yards (8-C.Gardner-Johnson).",0.43678147,1.3697656,-0.43542925,-0.1641141,0.1641141
+49124,WAS,0.0,0.0,12:48,1.0,3.0,6.0,WAS 45,pass,"(12:48) (No Huddle, Shotgun) 5-J.Daniels pass short left to 14-O.Zaccheaus to PHI 48 for 7 yards (53-Z.Baun).",0.42585674,0.9343365,1.7122754,-1.8763895,1.8763895
+49125,WAS,0.0,0.0,12:16,1.0,1.0,10.0,PHI 48,run,"(12:16) (No Huddle, Shotgun) 8-B.Robinson left tackle to PHI 43 for 5 yards (53-Z.Baun; 19-J.Sweat).",0.4801179,2.646612,-0.017715061,-1.8586744,1.8586744
+49126,WAS,0.0,0.0,11:41,1.0,2.0,5.0,PHI 43,pass,"(11:41) (No Huddle, Shotgun) 5-J.Daniels pass incomplete short left to 86-Z.Ertz.",0.46476734,2.6288967,-0.85009587,-1.0085785,1.0085785
+49127,WAS,0.0,0.0,11:37,1.0,3.0,5.0,PHI 43,pass,"(11:37) (No Huddle, Shotgun) 5-J.Daniels pass incomplete deep right to 30-A.Ekeler (33-C.DeJean).",0.44100326,1.778801,-1.7535224,0.74494386,-0.74494386
+49128,WAS,0.0,0.0,11:28,1.0,4.0,5.0,PHI 43,pass,"(11:28) (No Huddle, Shotgun) 5-J.Daniels pass short left to 86-Z.Ertz pushed ob at PHI 36 for 7 yards (53-Z.Baun).",0.39266723,0.025278522,3.451743,-2.706799,2.706799
+49129,WAS,0.0,0.0,10:58,1.0,1.0,10.0,PHI 36,pass,"(10:58) (No Huddle, Shotgun) 5-J.Daniels pass short right to 14-O.Zaccheaus to PHI 31 for 5 yards (53-Z.Baun).",0.5304118,3.4770212,0.12596326,-2.8327622,2.8327622
+49130,WAS,0.0,0.0,10:26,1.0,2.0,5.0,PHI 31,run,"(10:26) (No Huddle, Shotgun) 8-B.Robinson right tackle to PHI 28 for 3 yards (93-M.Williams).",0.51782006,3.6029847,-0.18005913,-2.652703,2.652703
+49131,WAS,0.0,0.0,09:55,1.0,3.0,2.0,PHI 28,pass,"(9:55) (No Huddle, Shotgun) 5-J.Daniels pass incomplete short left to 14-O.Zaccheaus (27-Q.Mitchell).",0.51499045,3.4229255,-1.3867536,-1.2659495,1.2659495
+49132,WAS,0.0,0.0,09:50,1.0,4.0,2.0,PHI 28,run,"(9:50) (No Huddle, Shotgun) 5-J.Daniels scrambles up the middle to PHI 23 for 5 yards (33-C.DeJean).",0.4683873,2.036172,2.3484404,-3.61439,3.61439
+49133,WAS,0.0,0.0,09:10,1.0,1.0,10.0,PHI 23,run,"(9:10) (No Huddle, Shotgun) 30-A.Ekeler left guard to PHI 22 for 1 yard (98-J.Carter; 32-R.Blankenship).",0.5607285,4.384612,-0.412224,-3.2021658,3.2021658
+49134,WAS,0.0,0.0,08:33,1.0,2.0,9.0,PHI 22,pass,"(8:33) (No Huddle, Shotgun) 5-J.Daniels pass incomplete short right to 80-J.Crowder.",0.54534644,3.9723883,-0.5903602,-2.6118057,2.6118057
+49135,WAS,0.0,0.0,08:30,1.0,3.0,9.0,PHI 22,pass,"(8:30) (No Huddle, Shotgun) 5-J.Daniels pass short left to 30-A.Ekeler pushed ob at PHI 16 for 6 yards (42-O.Burks; 27-Q.Mitchell).",0.52155125,3.382028,-0.6586733,-1.9531323,1.9531323
+49136,WAS,0.0,0.0,08:01,1.0,4.0,3.0,PHI 16,field_goal,"(8:01) 47-Z.Gonzalez 34 yard field goal is GOOD, Center-69-T.Ott, Holder-10-T.Way.",0.49727726,2.7233546,0.27664533,-2.2297776,2.2297776
+49137,PHI,0.0,3.0,07:57,1.0,,0.0,WAS 35,kickoff,47-Z.Gonzalez kicks 60 yards from WAS 35 to PHI 5. 28-W.Shipley to PHI 40 for 35 yards (20-Q.Martin).,0.51108754,1.4066317,0.93453515,-1.2952424,1.2952424
+49138,PHI,0.0,3.0,07:51,1.0,1.0,10.0,PHI 40,run,"(7:51) 26-S.Barkley left end for 60 yards, TOUCHDOWN.",0.5406577,2.3411667,4.658833,3.3635907,-3.3635907
+49139,PHI,6.0,3.0,07:39,1.0,,0.0,WAS 15,extra_point,"4-J.Elliott extra point is GOOD, Center-49-R.Lovato, Holder-10-B.Mann.",0.6826182,0.932427,0.067573,3.4311638,-3.4311638
+49140,WAS,3.0,7.0,07:39,1.0,,0.0,PHI 35,kickoff,4-J.Elliott kicks 61 yards from PHI 35 to WAS 4. 12-L.McCaffrey to WAS 27 for 23 yards (58-J.Hunt).,0.31554773,0.8653362,0.09596511,3.3351986,-3.3351986
+49141,WAS,3.0,7.0,07:31,1.0,1.0,10.0,WAS 27,run,(7:31) (Shotgun) 30-A.Ekeler left tackle to WAS 31 for 4 yards (42-O.Burks; 27-Q.Mitchell).,0.31554773,0.9613013,-0.07858557,3.4137843,-3.4137843
+49142,WAS,3.0,7.0,07:03,1.0,2.0,6.0,WAS 31,pass,"(7:03) (No Huddle, Shotgun) 5-J.Daniels pass short middle to 86-Z.Ertz to WAS 36 for 5 yards (53-Z.Baun).",0.30467314,0.8827157,0.39099467,3.0227895,-3.0227895
+49143,WAS,3.0,7.0,06:19,1.0,3.0,1.0,WAS 36,run,"(6:19) (No Huddle, Shotgun) 8-B.Robinson left guard to WAS 39 for 3 yards (8-C.Gardner-Johnson; 53-Z.Baun).",0.30952635,1.2737104,0.47754776,2.5452416,-2.5452416
+49144,WAS,3.0,7.0,05:54,1.0,1.0,10.0,WAS 39,pass,"(5:54) (No Huddle, Shotgun) 5-J.Daniels pass short right to 2-D.Brown to WAS 45 for 6 yards (53-Z.Baun; 33-C.DeJean). FUMBLES (53-Z.Baun), RECOVERED by PHI-32-R.Blankenship at WAS 48.",0.33482805,1.7512581,-4.811402,7.3566437,-7.3566437
+49145,PHI,7.0,3.0,05:45,1.0,1.0,10.0,WAS 48,pass,(5:45) (Shotgun) 1-J.Hurts pass incomplete short left to 11-A.Brown (23-M.Lattimore).,0.77101344,3.060144,-0.49789235,6.8587513,-6.8587513
+49146,PHI,7.0,3.0,05:38,1.0,2.0,10.0,WAS 48,pass,"(5:38) (No Huddle, Shotgun) 1-J.Hurts pass short right to 88-D.Goedert to WAS 38 for 10 yards (0-M.Sainristil; 11-J.Chinn).",0.75975364,2.5622516,1.1481096,8.006861,-8.006861
+49147,PHI,7.0,3.0,05:08,1.0,1.0,10.0,WAS 38,pass,"(5:08) (No Huddle, Shotgun) 1-J.Hurts pass deep left to 6-D.Smith ran ob at WAS 18 for 20 yards.",0.7913928,3.710361,1.2927551,9.299616,-9.299616
+49148,PHI,7.0,3.0,04:47,1.0,1.0,10.0,WAS 18,run,"(4:47) (No Huddle, Shotgun) 14-K.Gainwell up the middle to WAS 15 for 3 yards (93-J.Allen).",0.80336493,5.003116,-0.23952457,9.060092,-9.060092
+49149,PHI,7.0,3.0,04:14,1.0,2.0,7.0,WAS 15,pass,"(4:14) (No Huddle, Shotgun) 1-J.Hurts pass short right to 11-A.Brown ran ob at WAS 4 for 11 yards (20-Q.Martin).",0.7966489,4.763592,1.3164021,10.376493,-10.376493
+49150,PHI,7.0,3.0,03:47,1.0,1.0,4.0,WAS 4,run,"(3:47) (No Huddle, Shotgun) 26-S.Barkley right end for 4 yards, TOUCHDOWN.",0.81004626,6.0799937,0.92000616,11.2965,-11.2965
+49151,PHI,13.0,3.0,03:43,1.0,,0.0,WAS 15,extra_point,"4-J.Elliott extra point is GOOD, Center-49-R.Lovato, Holder-10-B.Mann.",0.83142227,0.932427,0.067573,11.364073,-11.364073
+49152,WAS,3.0,14.0,03:43,1.0,,0.0,PHI 35,kickoff,4-J.Elliott kicks 64 yards from PHI 35 to WAS 1. 12-L.McCaffrey to WAS 27 for 26 yards (21-S.Brown; 36-T.McCollum).,0.16708346,0.87026477,0.0923987,11.271674,-11.271674
+49153,WAS,3.0,14.0,03:37,1.0,1.0,10.0,WAS 27,run,(3:37) (Shotgun) 8-B.Robinson right guard to WAS 29 for 2 yards (3-N.Smith; 97-M.Ojomo).,0.16708346,0.9626635,-0.36506382,11.636738,-11.636738
+49154,WAS,3.0,14.0,03:08,1.0,2.0,8.0,WAS 29,run,"(3:08) (No Huddle, Shotgun) 8-B.Robinson left guard to WAS 31 for 2 yards (42-O.Burks; 97-M.Ojomo).",0.15761268,0.5975996,-0.49618584,12.132924,-12.132924
+49155,WAS,3.0,14.0,02:32,1.0,3.0,6.0,WAS 31,pass,(2:32) (Shotgun) 5-J.Daniels pass incomplete deep right to 17-T.McLaurin.,0.15539658,0.10141379,-1.2989038,13.431828,-13.431828
+49156,WAS,3.0,14.0,02:26,1.0,4.0,6.0,WAS 31,pass,(2:26) (Punt formation) 10-T.Way pass deep middle to 82-B.Sinnott to PHI 46 for 23 yards (54-J.Trotter; 28-W.Shipley).,0.13448861,-1.1974901,3.9842155,9.447612,-9.447612
+49157,WAS,3.0,14.0,01:42,1.0,1.0,10.0,PHI 46,pass,(1:42) (Shotgun) 5-J.Daniels sacked at WAS 48 for -6 yards (42-O.Burks).,0.1861688,2.7867255,-1.2032207,10.650833,-10.650833
+49158,WAS,3.0,14.0,01:03,1.0,2.0,16.0,WAS 48,pass,"(1:03) (No Huddle, Shotgun) 5-J.Daniels pass short right to 2-D.Brown to PHI 28 for 24 yards (42-O.Burks).",0.1663479,1.5835048,2.4605975,8.190235,-8.190235
+49159,WAS,3.0,14.0,00:26,1.0,1.0,10.0,PHI 28,run,"(:26) (No Huddle, Shotgun) 8-B.Robinson right guard to PHI 28 for no gain (53-Z.Baun).",0.1987905,4.044102,-0.4227953,8.61303,-8.61303
+49160,WAS,3.0,14.0,00:00,1.0,,0.0,PHI 28,,END QUARTER 1,0.18833326,3.6213071,-0.0,8.61303,-8.61303
+49161,WAS,3.0,14.0,15:00,2.0,2.0,10.0,PHI 28,pass,(15:00) (Shotgun) 5-J.Daniels pass incomplete deep right to 2-D.Brown.,0.18833326,3.6213071,-0.6379888,9.2510195,-9.2510195
+49162,WAS,3.0,14.0,14:54,2.0,3.0,10.0,PHI 28,pass,"(14:54) (No Huddle, Shotgun) 5-J.Daniels pass incomplete short left.",0.17261633,2.983318,-1.1663016,10.417321,-10.417321
+49163,WAS,3.0,14.0,14:46,2.0,4.0,10.0,PHI 28,field_goal,"(14:46) 47-Z.Gonzalez 46 yard field goal is GOOD, Center-69-T.Ott, Holder-10-T.Way.",0.14619441,1.8170166,1.1829834,9.234338,-9.234338
+49164,PHI,14.0,6.0,14:42,2.0,,0.0,WAS 35,kickoff,47-Z.Gonzalez kicks 61 yards from WAS 35 to PHI 4. 28-W.Shipley to PHI 29 for 25 yards (11-J.Chinn).,0.8204602,1.1909745,0.29071078,9.525048,-9.525048
+49165,PHI,14.0,6.0,14:37,2.0,1.0,10.0,PHI 29,run,(14:37) (Shotgun) 26-S.Barkley up the middle to PHI 26 for -3 yards (93-J.Allen).,0.8244944,1.4816853,-1.1046066,8.420442,-8.420442
+49166,PHI,14.0,6.0,14:00,2.0,2.0,13.0,PHI 26,pass,(14:00) (Shotgun) 1-J.Hurts pass short right to 11-A.Brown to PHI 41 for 15 yards (11-J.Chinn).,0.8077714,0.3770786,1.7909093,10.211351,-10.211351
+49167,PHI,14.0,6.0,13:29,2.0,1.0,10.0,PHI 41,pass,"(13:29) (No Huddle, Shotgun) 1-J.Hurts pass incomplete deep right to 11-A.Brown (0-M.Sainristil).",0.8478451,2.1679878,-0.4767831,9.734568,-9.734568
+49168,PHI,14.0,6.0,13:21,2.0,2.0,10.0,PHI 41,no_play,"(13:21) (No Huddle, Shotgun) PENALTY on PHI-56-T.Steen, False Start, 5 yards, enforced at PHI 41 - No Play.",0.8395772,1.6912048,-0.5946418,9.139926,-9.139926
+49169,PHI,14.0,6.0,13:21,2.0,2.0,15.0,PHI 36,pass,(13:21) (Shotgun) 1-J.Hurts pass short middle to 14-K.Gainwell to PHI 44 for 8 yards (20-Q.Martin; 4-F.Luvu).,0.8318682,1.096563,0.031419944,9.171346,-9.171346
+49170,PHI,14.0,6.0,12:33,2.0,3.0,7.0,PHI 44,pass,(12:33) (Shotgun) 1-J.Hurts pass short left to 88-D.Goedert to WAS 41 for 15 yards (54-B.Wagner).,0.82961285,1.127983,2.1215029,11.292849,-11.292849
+49171,PHI,14.0,6.0,11:59,2.0,1.0,10.0,WAS 41,run,"(11:59) (No Huddle, Shotgun) 14-K.Gainwell left guard to WAS 40 for 1 yard (54-B.Wagner).",0.8608244,3.2494857,-0.52487856,10.76797,-10.76797
+49172,PHI,14.0,6.0,11:30,2.0,2.0,9.0,WAS 40,pass,"(11:30) (No Huddle, Shotgun) 1-J.Hurts pass short right to 14-K.Gainwell to WAS 32 for 8 yards (20-Q.Martin; 54-B.Wagner).",0.8545258,2.7246072,0.70959425,11.477565,-11.477565
+49173,PHI,14.0,6.0,11:02,2.0,3.0,1.0,WAS 32,run,(11:02) (No Huddle) 1-J.Hurts up the middle to WAS 31 for 1 yard (6-D.Fowler; 91-C.Davis).,0.85964084,3.4342015,0.4521483,11.929713,-11.929713
+49174,PHI,14.0,6.0,10:26,2.0,1.0,10.0,WAS 31,run,"(10:26) (No Huddle, Shotgun) 14-K.Gainwell left guard to WAS 27 for 4 yards (91-C.Davis).",0.86306655,3.8863497,-0.09917234,11.830541,-11.830541
+49175,PHI,14.0,6.0,09:51,2.0,2.0,6.0,WAS 27,pass,"(9:51) (No Huddle, Shotgun) 1-J.Hurts pass incomplete short right.",0.8588653,3.7871773,-0.72601485,11.104526,-11.104526
+49176,,,,09:43,2.0,,0.0,WAS 27,no_play,Timeout #1 by PHI at 09:43.,0.84530073,3.0611625,0.0,11.104526,-11.104526
+49177,PHI,14.0,6.0,09:43,2.0,3.0,6.0,WAS 27,pass,(9:43) (Shotgun) 1-J.Hurts sacked at WAS 36 for -9 yards (4-F.Luvu).,0.84530073,3.0611625,-2.2760587,8.828467,-8.828467
+49178,PHI,14.0,6.0,08:55,2.0,4.0,15.0,WAS 36,field_goal,"(8:55) 4-J.Elliott 54 yard field goal is No Good, Wide Right, Center-49-R.Lovato, Holder-10-B.Mann.",0.81872046,0.7851039,-3.101566,5.726901,-5.726901
+49179,WAS,6.0,14.0,08:49,2.0,1.0,10.0,WAS 44,run,(8:49) (Shotgun) 5-J.Daniels scrambles right end ran ob at 50 for 6 yards (42-O.Burks; 58-J.Hunt).,0.2276681,2.3164623,0.31041574,5.4164853,-5.4164853
+49180,WAS,6.0,14.0,08:19,2.0,2.0,4.0,MID 50,pass,"(8:19) (No Huddle, Shotgun) 5-J.Daniels pass short middle to 87-J.Bates to PHI 43 for 7 yards (32-R.Blankenship).",0.22807755,2.626878,0.3670987,5.0493865,-5.0493865
+49181,WAS,6.0,14.0,07:55,2.0,1.0,10.0,PHI 43,run,"(7:55) (No Huddle, Shotgun) 8-B.Robinson left tackle to PHI 36 for 7 yards (53-Z.Baun).",0.23743492,2.9939766,0.52748716,4.521899,-4.521899
+49182,WAS,6.0,14.0,07:18,2.0,2.0,3.0,PHI 36,pass,"(7:18) (No Huddle, Shotgun) 5-J.Daniels pass incomplete short right to 2-D.Brown (33-C.DeJean).",0.24778593,3.5214639,-0.6501997,5.172099,-5.172099
+49183,WAS,6.0,14.0,07:15,2.0,3.0,3.0,PHI 36,pass,"(7:15) (No Huddle, Shotgun) 5-J.Daniels pass short right to 17-T.McLaurin for 36 yards, TOUCHDOWN.",0.23818097,2.871264,4.128736,1.0433632,-1.0433632
+49184,WAS,12.0,14.0,07:05,2.0,,0.0,PHI 2,pass,TWO-POINT CONVERSION ATTEMPT. 5-J.Daniels pass to 30-A.Ekeler is complete. ATTEMPT FAILS.,0.33931908,0.947,-0.947,1.9903631,-1.9903631
+49185,PHI,14.0,12.0,07:05,2.0,,0.0,WAS 35,kickoff,"47-Z.Gonzalez kicks 60 yards from WAS 35 to PHI 5. 14-K.Gainwell MUFFS catch, and recovers at PHI 8. 14-K.Gainwell to PHI 28 for 20 yards (38-K.Seymour; 22-D.Forrest).",0.7198412,0.8831584,0.07566748,2.0660307,-2.0660307
+49186,PHI,14.0,12.0,07:00,2.0,1.0,10.0,PHI 28,pass,(7:00) (Shotgun) 1-J.Hurts pass short middle to 6-D.Smith to PHI 36 for 8 yards (0-M.Sainristil; 4-F.Luvu).,0.72537965,0.9588258,0.66650635,2.732537,-2.732537
+49187,PHI,14.0,12.0,06:20,2.0,2.0,2.0,PHI 36,run,(6:20) (Shotgun) 26-S.Barkley left guard to PHI 37 for 1 yard (96-J.Holmes).,0.74834704,1.6253321,-0.39141166,2.3411252,-2.3411252
+49188,PHI,14.0,12.0,05:44,2.0,3.0,1.0,PHI 37,run,(5:44) 1-J.Hurts up the middle to PHI 38 for 1 yard (91-C.Davis; 90-J.Jean-Baptiste).,0.72272176,1.2339205,0.19621193,2.5373373,-2.5373373
+49189,PHI,14.0,12.0,04:59,2.0,1.0,10.0,PHI 38,run,(4:59) 74-F.Johnson reported in as eligible. 1-J.Hurts scrambles up the middle to PHI 40 for 2 yards (93-J.Allen).,0.7384658,1.4301324,-0.46241704,2.0749202,-2.0749202
+49190,PHI,14.0,12.0,04:13,2.0,2.0,8.0,PHI 40,run,(4:13) (Shotgun) 26-S.Barkley right end to 50 for 10 yards (0-M.Sainristil).,0.7261739,0.9677154,1.1338035,3.2087238,-3.2087238
+49191,PHI,14.0,12.0,03:42,2.0,1.0,10.0,MID 50,run,"(3:42) (No Huddle, Shotgun) 1-J.Hurts left end to 50 for no gain (54-B.Wagner).",0.7579067,2.1015189,-0.39466256,2.8140612,-2.8140612
+49192,PHI,14.0,12.0,02:57,2.0,2.0,10.0,MID 50,run,(2:57) (Shotgun) 26-S.Barkley up the middle to WAS 45 for 5 yards (1-N.Igbinoghene; 54-B.Wagner).,0.7462145,1.7068564,0.09898503,2.9130461,-2.9130461
+49193,PHI,14.0,12.0,02:20,2.0,3.0,5.0,WAS 45,pass,(2:20) (Shotgun) 1-J.Hurts pass incomplete short right to 26-S.Barkley (0-M.Sainristil).,0.72782564,1.8058413,-1.5256193,1.3874269,-1.3874269
+49194,PHI,14.0,12.0,02:14,2.0,4.0,5.0,WAS 45,pass,(2:14) (Shotgun) 1-J.Hurts pass deep left to 11-A.Brown pushed ob at WAS 14 for 31 yards (23-M.Lattimore).,0.6947034,0.28022206,4.42502,5.812447,-5.812447
+49195,PHI,14.0,12.0,02:00,2.0,1.0,10.0,WAS 14,run,(2:00) 26-S.Barkley left tackle to WAS 12 for 2 yards (99-C.Ferrell; 93-J.Allen).,0.7760445,4.705242,-0.4791864,5.333261,-5.333261
+49196,,,,01:56,2.0,,0.0,WAS 12,no_play,Timeout #1 by WAS at 01:56.,0.7690181,4.226056,0.0,5.333261,-5.333261
+49197,PHI,14.0,12.0,01:56,2.0,2.0,8.0,WAS 12,pass,(1:56) (Shotgun) 1-J.Hurts pass incomplete short middle to 88-D.Goedert (23-M.Lattimore).,0.7690181,4.226056,-0.70985013,4.6234107,-4.6234107
+49198,PHI,14.0,12.0,01:51,2.0,3.0,8.0,WAS 12,no_play,"(1:51) (Shotgun) PENALTY on PHI-1-J.Hurts, False Start, 5 yards, enforced at WAS 12 - No Play.",0.7476915,3.5162058,-0.51921725,4.104193,-4.104193
+49199,PHI,14.0,12.0,01:51,2.0,3.0,13.0,WAS 17,no_play,"(1:51) (Shotgun) 1-J.Hurts pass incomplete deep right to 6-D.Smith (23-M.Lattimore). PENALTY on WAS-23-M.Lattimore, Defensive Pass Interference, 16 yards, enforced at WAS 17 - No Play.",0.74145746,2.9969885,3.2658277,7.3700213,-7.3700213
+49200,PHI,14.0,12.0,01:45,2.0,1.0,1.0,WAS 1,run,"(1:45) 1-J.Hurts up the middle for 1 yard, TOUCHDOWN. PENALTY on WAS-23-M.Lattimore, Unnecessary Roughness, 1 yard, enforced between downs.",0.8048562,6.2628164,0.73718363,8.107204,-8.107204
+49201,PHI,20.0,12.0,01:44,2.0,,0.0,WAS 1,run,TWO-POINT CONVERSION ATTEMPT. 1-J.Hurts rushes up the middle. ATTEMPT FAILS.,0.8215593,0.947,-0.947,7.160205,-7.160205
+49202,WAS,12.0,20.0,01:44,2.0,,0.0,PHI 35,kickoff,"4-J.Elliott kicks 60 yards from PHI 35 to WAS 5. 26-J.McNichols to WAS 22 for 17 yards (28-W.Shipley). FUMBLES (28-W.Shipley), touched at WAS 22, RECOVERED by PHI-14-K.Gainwell at WAS 24.",0.18701115,0.6894694,-4.4696794,11.629885,-11.629885
+49203,PHI,20.0,12.0,01:36,2.0,1.0,10.0,WAS 24,pass,(1:36) (Shotgun) 1-J.Hurts pass short right to 88-D.Goedert to WAS 17 for 7 yards (11-J.Chinn).,0.8956391,3.7802103,0.59311944,12.223003,-12.223003
+49204,PHI,20.0,12.0,01:12,2.0,2.0,3.0,WAS 17,run,"(1:12) (No Huddle, Shotgun) 1-J.Hurts right end for 17 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on PHI-69-L.Dickerson, Offensive Holding, 10 yards, enforced at WAS 14.",0.9039679,4.3733296,-0.9369796,11.286024,-11.286024
+49205,PHI,20.0,12.0,01:06,2.0,2.0,10.0,WAS 24,pass,(1:06) (Shotgun) 1-J.Hurts pass incomplete short left.,0.88966334,3.43635,-0.31995782,10.966066,-10.966066
+49206,PHI,20.0,12.0,00:57,2.0,3.0,10.0,WAS 24,pass,"(:57) (Shotgun) 1-J.Hurts pass short right to 26-S.Barkley ran ob at WAS 20 for 4 yards (0-M.Sainristil). PENALTY on WAS-0-M.Sainristil, Unnecessary Roughness, 10 yards, enforced at WAS 20.",0.8808952,3.1163921,1.5322472,12.498314,-12.498314
+49207,PHI,20.0,12.0,00:52,2.0,1.0,10.0,WAS 10,run,(:52) (Shotgun) 26-S.Barkley left guard to WAS 4 for 6 yards (95-J.Newton).,0.90370184,4.648639,0.29579228,12.794106,-12.794106
+49208,,,,00:47,2.0,,0.0,WAS 4,no_play,Timeout #2 by WAS at 00:47.,0.9090961,4.944432,0.0,12.794106,-12.794106
+49209,PHI,20.0,12.0,00:47,2.0,2.0,4.0,WAS 4,run,(:47) (Shotgun) 26-S.Barkley up the middle to WAS 4 for no gain (91-C.Davis).,0.9090961,4.944432,-1.3865451,11.40756,-11.40756
+49210,,,,00:43,2.0,,0.0,WAS 4,no_play,Timeout #3 by WAS at 00:43.,0.90375406,3.5578866,0.0,11.40756,-11.40756
+49211,PHI,20.0,12.0,00:43,2.0,3.0,4.0,WAS 4,pass,"(:43) (Shotgun) 1-J.Hurts pass short right to 11-A.Brown for 4 yards, TOUCHDOWN.",0.90375406,3.5578866,3.4421134,14.849674,-14.849674
+49212,PHI,26.0,12.0,00:39,2.0,,0.0,WAS 15,extra_point,"4-J.Elliott extra point is GOOD, Center-49-R.Lovato, Holder-10-B.Mann.",0.9164409,0.932427,0.067573,14.917247,-14.917247
+49213,WAS,12.0,27.0,00:39,2.0,,0.0,PHI 35,kickoff,"4-J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback to the WAS 30.",0.08232232,0.28314662,0.059680603,14.857567,-14.857567
+49214,WAS,12.0,27.0,00:39,2.0,1.0,10.0,WAS 30,pass,(:39) (Shotgun) 5-J.Daniels pass short right to 30-A.Ekeler pushed ob at WAS 33 for 3 yards (42-O.Burks).,0.08242642,0.34282723,0.0456283,14.811938,-14.811938
+49215,WAS,12.0,27.0,00:34,2.0,2.0,7.0,WAS 33,pass,"(:34) (No Huddle, Shotgun) 5-J.Daniels pass short middle to 86-Z.Ertz to WAS 41 for 8 yards (53-Z.Baun).",0.078208305,0.38845554,0.13231114,14.679627,-14.679627
+49216,WAS,12.0,27.0,00:21,2.0,1.0,10.0,WAS 41,no_play,"(:21) (No Huddle) PENALTY on PHI-98-J.Carter, Encroachment, 5 yards, enforced at WAS 41 - No Play.",0.07940142,0.5207667,0.25338572,14.426242,-14.426242
+49217,WAS,12.0,27.0,00:21,2.0,1.0,5.0,WAS 46,run,"(:21) (No Huddle, Shotgun) 5-J.Daniels scrambles left end pushed ob at PHI 35 for 19 yards (32-R.Blankenship).",0.087586954,0.7741524,0.74330425,13.682938,-13.682938
+49218,,,,00:13,2.0,,0.0,PHI 35,no_play,Timeout #2 by PHI at 00:13.,0.089876905,1.5174567,-0.0,13.682938,-13.682938
+49219,WAS,12.0,27.0,00:13,2.0,1.0,10.0,PHI 35,pass,(:13) (Shotgun) 5-J.Daniels pass short left to 86-Z.Ertz pushed ob at PHI 24 for 11 yards (34-I.Rodgers).,0.089876905,1.5174567,0.93032813,12.752609,-12.752609
+49220,,,,00:06,2.0,,0.0,PHI 24,no_play,Timeout #3 by PHI at 00:06.,0.11339521,2.447785,-0.0,12.752609,-12.752609
+49221,WAS,12.0,27.0,00:06,2.0,1.0,10.0,PHI 24,field_goal,"(:06) 47-Z.Gonzalez 42 yard field goal is GOOD, Center-69-T.Ott, Holder-10-T.Way.",0.11339521,2.447785,0.5522152,12.200394,-12.200394
+49222,PHI,27.0,15.0,00:02,2.0,,0.0,WAS 35,kickoff,47-Z.Gonzalez kicks 66 yards from WAS 35 to PHI -1. 14-K.Gainwell to PHI 18 for 19 yards (35-P.Butler).,0.89646876,0.00049197674,-0.00049197674,12.199902,-12.199902
+49223,,,,00:00,2.0,,0.0,WAS 35,,END QUARTER 2,0.88458353,,,12.199902,-12.199902
+49224,PHI,27.0,15.0,15:00,3.0,,0.0,WAS 35,kickoff,47-Z.Gonzalez kicks 62 yards from WAS 35 to PHI 3. 28-W.Shipley to PHI 31 for 28 yards (32-M.Walker). PHI-14-K.Gainwell was injured during the play.,0.88458353,1.4740977,0.3705693,12.570471,-12.570471
+49225,PHI,27.0,15.0,14:55,3.0,1.0,10.0,PHI 31,run,(14:55) (Shotgun) 1-J.Hurts right end pushed ob at PHI 29 for -2 yards (54-B.Wagner).,0.8871266,1.8446671,-0.8811892,11.689281,-11.689281
+49226,PHI,27.0,15.0,14:15,3.0,2.0,12.0,PHI 29,pass,(14:15) (Shotgun) 1-J.Hurts sacked at PHI 22 for -7 yards (92-D.Armstrong).,0.8731148,0.96347785,-1.8079443,9.881338,-9.881338
+49227,PHI,27.0,15.0,13:34,3.0,3.0,19.0,PHI 22,pass,(13:34) (Shotgun) 1-J.Hurts pass short left to 88-D.Goedert to PHI 31 for 9 yards (93-J.Allen; 54-B.Wagner).,0.8568143,-0.84446645,0.0006838073,9.882022,-9.882022
+49228,PHI,27.0,15.0,12:50,3.0,4.0,10.0,PHI 31,punt,"(12:50) 10-B.Mann punts 43 yards to WAS 26, Center-49-R.Lovato, downed by PHI-48-K.Blasingame.",0.84619236,-0.84378266,-0.06848974,9.813532,-9.813532
+49229,WAS,15.0,27.0,12:39,3.0,1.0,10.0,WAS 26,run,(12:39) (Shotgun) 8-B.Robinson right tackle to WAS 28 for 2 yards (3-N.Smith).,0.12753133,0.9122724,-0.5174301,10.330962,-10.330962
+49230,WAS,15.0,27.0,12:13,3.0,2.0,8.0,WAS 28,pass,"(12:13) (No Huddle, Shotgun) 5-J.Daniels sacked at WAS 16 for -12 yards (90-J.Davis).",0.11664388,0.39484224,-1.9162939,12.247255,-12.247255
+49231,WAS,15.0,27.0,11:35,3.0,3.0,20.0,WAS 16,pass,"(11:35) (No Huddle, Shotgun) 5-J.Daniels pass short left to 30-A.Ekeler to WAS 23 for 7 yards (93-M.Williams).",0.092610754,-1.5214516,-0.6498589,12.897115,-12.897115
+49232,WAS,15.0,27.0,10:57,3.0,4.0,13.0,WAS 23,punt,"(10:57) 10-T.Way punts 45 yards to PHI 32, Center-69-T.Ott. 33-C.DeJean to PHI 42 for 10 yards (41-C.Yankoff; 57-N.Bellore).",0.080751926,-2.1713104,-0.33522344,13.232338,-13.232338
+49233,PHI,27.0,15.0,10:47,3.0,1.0,10.0,PHI 42,pass,(10:47) (Shotgun) 1-J.Hurts pass short right to 11-A.Brown to WAS 42 for 16 yards (0-M.Sainristil).,0.9021372,2.5065339,0.9321967,14.164535,-14.164535
+49234,PHI,27.0,15.0,10:15,3.0,1.0,10.0,WAS 42,pass,"(10:15) (No Huddle, Shotgun) 1-J.Hurts pass short left to 88-D.Goedert to WAS 35 for 7 yards (1-N.Igbinoghene).",0.9074214,3.4387307,0.3324019,14.496937,-14.496937
+49235,PHI,27.0,15.0,09:44,3.0,2.0,3.0,WAS 35,pass,"(9:44) (No Huddle, Shotgun) 1-J.Hurts pass deep left to 88-D.Goedert pushed ob at WAS 9 for 26 yards (23-M.Lattimore).",0.914449,3.7711325,1.5980878,16.095024,-16.095024
+49236,PHI,27.0,15.0,09:04,3.0,1.0,9.0,WAS 9,run,"(9:04) (No Huddle, Shotgun) 1-J.Hurts left guard for 9 yards, TOUCHDOWN.",0.92946494,5.3692203,1.6307796,17.725803,-17.725803
+49237,PHI,33.0,15.0,08:58,3.0,,0.0,WAS 15,extra_point,"4-J.Elliott extra point is GOOD, Center-49-R.Lovato, Holder-10-B.Mann.",0.9523618,0.932427,0.067573,17.793377,-17.793377
+49238,WAS,15.0,34.0,08:58,3.0,,0.0,PHI 35,kickoff,"4-J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback to the WAS 30.",0.04724482,0.86797506,0.2927412,17.500635,-17.500635
+49239,WAS,15.0,34.0,08:58,3.0,1.0,10.0,WAS 30,pass,(8:58) (Shotgun) 5-J.Daniels pass short middle to 2-D.Brown to WAS 42 for 12 yards (2-D.Slay).,0.055199347,1.1607163,0.78781396,16.712822,-16.712822
+49240,WAS,15.0,34.0,08:27,3.0,1.0,10.0,WAS 42,run,"(8:27) (No Huddle, Shotgun) 8-B.Robinson left guard to WAS 48 for 6 yards (8-C.Gardner-Johnson). PHI-98-J.Carter was injured during the play.",0.059085917,1.9485302,0.38114256,16.33168,-16.33168
+49241,WAS,15.0,34.0,08:02,3.0,2.0,4.0,WAS 48,pass,(8:02) (Shotgun) 5-J.Daniels pass deep right to 86-Z.Ertz pushed ob at PHI 31 for 21 yards (8-C.Gardner-Johnson).,0.05637012,2.3296728,1.4978315,14.833848,-14.833848
+49242,WAS,15.0,34.0,07:25,3.0,1.0,10.0,PHI 31,run,"(7:25) (No Huddle, Shotgun) 8-B.Robinson right guard to PHI 27 for 4 yards (53-Z.Baun; 98-J.Carter). ** Injury Update: PHI-98-J.Carter has returned to the game.",0.063594125,3.8275042,-0.056359433,14.890207,-14.890207
+49243,WAS,15.0,34.0,06:50,3.0,2.0,6.0,PHI 27,pass,"(6:50) (No Huddle, Shotgun) 5-J.Daniels pass short left to 14-O.Zaccheaus to PHI 19 for 8 yards (19-J.Sweat).",0.06454263,3.7711449,0.8101992,14.0800085,-14.0800085
+49244,WAS,15.0,34.0,06:17,3.0,1.0,10.0,PHI 19,run,"(6:17) (No Huddle, Shotgun) 5-J.Daniels up the middle to PHI 12 for 7 yards (32-R.Blankenship).",0.07201481,4.581344,0.39494795,13.6850605,-13.6850605
+49245,WAS,15.0,34.0,05:36,3.0,2.0,3.0,PHI 12,run,"(5:36) (No Huddle, Shotgun) 8-B.Robinson left guard to PHI 10 for 2 yards (8-C.Gardner-Johnson; 33-C.DeJean).",0.06778568,4.976292,-0.23270632,13.917767,-13.917767
+49246,WAS,15.0,34.0,05:07,3.0,3.0,1.0,PHI 10,run,"(5:07) (No Huddle, Shotgun) 5-J.Daniels right tackle for 10 yards, TOUCHDOWN.",0.06060157,4.7435856,2.2564144,11.661352,-11.661352
+49247,WAS,21.0,34.0,05:01,3.0,,0.0,PHI 2,pass,TWO-POINT CONVERSION ATTEMPT. 5-J.Daniels pass to 14-O.Zaccheaus is complete. ATTEMPT SUCCEEDS.,0.07754057,0.947,1.053,10.608352,-10.608352
+49248,PHI,34.0,23.0,05:01,3.0,,0.0,WAS 35,kickoff,47-Z.Gonzalez kicks 58 yards from WAS 35 to PHI 7. 34-I.Rodgers pushed ob at PHI 31 for 24 yards (11-J.Chinn; 22-D.Forrest).,0.89636314,1.4077148,0.36532238,10.973675,-10.973675
+49249,PHI,34.0,23.0,04:58,3.0,1.0,10.0,PHI 31,run,(4:58) (Shotgun) 26-S.Barkley right tackle to PHI 36 for 5 yards (20-Q.Martin).,0.89934415,1.7730373,0.09385714,11.067532,-11.067532
+49250,PHI,34.0,23.0,04:31,3.0,2.0,5.0,PHI 36,pass,"(4:31) (No Huddle, Shotgun) 1-J.Hurts pass incomplete short right [99-C.Ferrell].",0.901757,1.8668945,-0.87129295,10.1962385,-10.1962385
+49251,PHI,34.0,23.0,04:22,3.0,3.0,5.0,PHI 36,pass,(4:22) (Shotgun) 1-J.Hurts pass short right to 6-D.Smith ran ob at PHI 47 for 11 yards (23-M.Lattimore).,0.89527416,0.9956015,1.8356932,12.031932,-12.031932
+49252,PHI,34.0,23.0,03:45,3.0,1.0,10.0,PHI 47,pass,"(3:45) (No Huddle, Shotgun) 1-J.Hurts pass short right to 88-D.Goedert to WAS 42 for 11 yards (11-J.Chinn).",0.91200227,2.8312948,0.5591744,12.591106,-12.591106
+49253,PHI,34.0,23.0,03:17,3.0,1.0,10.0,WAS 42,pass,"(3:17) (No Huddle, Shotgun) 1-J.Hurts pass incomplete short right.",0.9155764,3.390469,-0.52967113,12.061436,-12.061436
+49254,PHI,34.0,23.0,03:08,3.0,2.0,10.0,WAS 42,run,(3:08) 26-S.Barkley left end to WAS 37 for 5 yards (25-B.St-Juste).,0.91656417,2.8607981,-0.24706472,11.81437,-11.81437
+49255,PHI,34.0,23.0,02:29,3.0,3.0,5.0,WAS 37,run,"(2:29) (No Huddle, Shotgun) 26-S.Barkley left guard to WAS 40 for -3 yards (4-F.Luvu).",0.9155632,2.6137333,-2.2803078,9.534062,-9.534062
+49256,PHI,34.0,23.0,01:44,3.0,4.0,8.0,WAS 40,punt,"(1:44) 10-B.Mann punts 40 yards to end zone, Center-49-R.Lovato, Touchback.",0.91980875,0.3334254,-0.82730436,8.7067585,-8.7067585
+49257,WAS,23.0,34.0,01:34,3.0,1.0,10.0,WAS 20,pass,(1:34) (Shotgun) 5-J.Daniels pass short middle to 86-Z.Ertz to WAS 36 for 16 yards (32-R.Blankenship).,0.11283999,0.49387896,1.1422662,7.564492,-7.564492
+49258,WAS,23.0,34.0,01:10,3.0,1.0,10.0,WAS 36,pass,"(1:10) (No Huddle, Shotgun) 5-J.Daniels pass incomplete short left to 17-T.McLaurin (90-J.Davis).",0.14722379,1.6361451,-0.5015113,8.066004,-8.066004
+49259,WAS,23.0,34.0,01:06,3.0,2.0,10.0,WAS 36,pass,"(1:06) (No Huddle, Shotgun) 5-J.Daniels pass incomplete short left to 86-Z.Ertz [58-J.Hunt].",0.13081644,1.1346338,-0.8247724,8.890776,-8.890776
+49260,WAS,23.0,34.0,01:02,3.0,3.0,10.0,WAS 36,pass,"(1:02) (No Huddle, Shotgun) 5-J.Daniels pass short middle to 86-Z.Ertz to WAS 49 for 13 yards (32-R.Blankenship).",0.10603723,0.3098614,2.1481652,6.7426105,-6.7426105
+49261,WAS,23.0,34.0,00:32,3.0,1.0,10.0,WAS 49,pass,"(:32) (No Huddle, Shotgun) 5-J.Daniels pass short right to 30-A.Ekeler to 50 for 1 yard (42-O.Burks). FUMBLES (42-O.Burks), touched at 50, RECOVERED by PHI-53-Z.Baun at PHI 49.",0.13956007,2.4580266,-5.215462,11.958073,-11.958073
+49262,PHI,34.0,23.0,00:22,3.0,1.0,10.0,PHI 49,pass,(:22) (Shotgun) 1-J.Hurts pass short right to 11-A.Brown pushed ob at WAS 32 for 19 yards (1-N.Igbinoghene).,0.93783915,2.7574353,1.1635358,13.121609,-13.121609
+49263,PHI,34.0,23.0,00:00,3.0,,0.0,WAS 32,,END QUARTER 3,0.94606215,3.9209712,0.0,13.121609,-13.121609
+49264,PHI,34.0,23.0,15:00,4.0,1.0,10.0,WAS 32,run,(15:00) 88-D.Goedert right end to WAS 23 for 9 yards (11-J.Chinn).,0.94606215,3.9209712,0.82752603,13.949135,-13.949135
+49265,PHI,34.0,23.0,14:17,4.0,2.0,1.0,WAS 23,run,(14:17) (Shotgun) 26-S.Barkley left tackle to WAS 1 for 22 yards (11-J.Chinn).,0.95356816,4.748497,1.7089887,15.658123,-15.658123
+49266,PHI,34.0,23.0,13:43,4.0,1.0,1.0,WAS 1,no_play,"(13:43) (No Huddle) 1-J.Hurts up the middle to WAS 1 for no gain (95-J.Newton; 99-C.Ferrell). PENALTY on WAS-93-J.Allen, Defensive Offside, 0 yards, enforced at WAS 1 - No Play.",0.9681585,6.4574857,-0.003623735,15.654499,-15.654499
+49267,PHI,34.0,23.0,13:34,4.0,1.0,1.0,WAS 1,run,(13:34) 1-J.Hurts up the middle to WAS 1 for no gain (92-D.Armstrong; 11-J.Chinn).,0.9681585,6.453862,-0.24529947,15.4092,-15.4092
+49268,PHI,34.0,23.0,12:58,4.0,2.0,1.0,WAS 1,no_play,"(12:58) PENALTY on WAS-4-F.Luvu, Encroachment, 0 yards, enforced at WAS 1 - No Play.",0.96614355,6.2085624,-0.0028869733,15.406313,-15.406313
+49269,PHI,34.0,23.0,12:45,4.0,2.0,1.0,WAS 1,no_play,"(12:45) PENALTY on WAS-4-F.Luvu, Encroachment, 0 yards, enforced at WAS 1 - No Play.",0.96614355,6.2056756,-0.00623337,15.40008,-15.40008
+49270,PHI,34.0,23.0,12:35,4.0,2.0,1.0,WAS 1,no_play,"(12:35) PENALTY on WAS-93-J.Allen, Encroachment, 0 yards, enforced at WAS 1 - No Play.",0.96614355,6.1994424,-0.0030834975,15.396996,-15.396996
+49271,PHI,34.0,23.0,12:26,4.0,2.0,1.0,WAS 1,run,"(12:26) 1-J.Hurts up the middle for 1 yard, TOUCHDOWN.",0.9669726,6.1963587,0.8036413,16.200638,-16.200638
+49272,PHI,40.0,23.0,12:24,4.0,,0.0,WAS 15,extra_point,"4-J.Elliott extra point is GOOD, Center-49-R.Lovato, Holder-10-B.Mann.",0.9829133,0.932427,0.067573,16.26821,-16.26821
+49273,WAS,23.0,41.0,12:24,4.0,,0.0,PHI 35,kickoff,"4-J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback to the WAS 30.",0.016580267,0.9978377,0.25609863,16.012112,-16.012112
+49274,WAS,23.0,41.0,12:24,4.0,1.0,10.0,WAS 30,pass,(12:24) (Shotgun) 5-J.Daniels pass incomplete short right.,0.01947741,1.2539363,-0.53200096,16.544113,-16.544113
+49275,WAS,23.0,41.0,12:18,4.0,2.0,10.0,WAS 30,pass,"(12:18) (No Huddle, Shotgun) 5-J.Daniels pass incomplete short right to 86-Z.Ertz.",0.016598253,0.7219354,-0.71698004,17.261093,-17.261093
+49276,WAS,23.0,41.0,12:14,4.0,3.0,10.0,WAS 30,pass,"(12:14) (No Huddle, Shotgun) 5-J.Daniels pass short right to 80-J.Crowder to WAS 34 for 4 yards (33-C.DeJean).",0.015466059,0.004955324,-0.84681344,18.107906,-18.107906
+49277,WAS,23.0,41.0,11:28,4.0,4.0,6.0,WAS 34,pass,"(11:28) (No Huddle, Shotgun) 5-J.Daniels pass short right to 86-Z.Ertz to WAS 41 for 7 yards (32-R.Blankenship).",0.012396546,-0.8418581,2.804715,15.303191,-15.303191
+49278,WAS,23.0,41.0,11:05,4.0,1.0,10.0,WAS 41,pass,"(11:05) (No Huddle, Shotgun) 5-J.Daniels pass incomplete short middle to 80-J.Crowder.",0.018325176,1.9628569,-0.4812198,15.78441,-15.78441
+49279,WAS,23.0,41.0,11:01,4.0,2.0,10.0,WAS 41,run,"(11:01) (No Huddle, Shotgun) 30-A.Ekeler left guard to WAS 40 for -1 yards (53-Z.Baun).",0.015613639,1.4816371,-1.1005436,16.884954,-16.884954
+49280,WAS,23.0,41.0,10:30,4.0,3.0,11.0,WAS 40,pass,"(10:30) (No Huddle, Shotgun) 5-J.Daniels pass incomplete short right to 12-L.McCaffrey (2-D.Slay).",0.014218208,0.38109344,-1.1460341,18.030989,-18.030989
+49281,WAS,23.0,41.0,10:24,4.0,4.0,11.0,WAS 40,pass,"(10:24) (No Huddle, Shotgun) 5-J.Daniels sacked at WAS 31 for -9 yards (3-N.Smith).",0.011312916,-0.7649407,-3.0990279,21.130016,-21.130016
+49282,PHI,41.0,23.0,10:19,4.0,1.0,10.0,WAS 31,pass,(10:19) (Shotgun) 1-J.Hurts pass short middle to 6-D.Smith to WAS 25 for 6 yards (54-B.Wagner).,0.9971475,3.8639686,0.26028994,21.390306,-21.390306
+49283,PHI,41.0,23.0,09:34,4.0,2.0,4.0,WAS 25,run,(9:34) (Shotgun) 26-S.Barkley left end to WAS 25 for no gain (96-J.Holmes).,0.9970108,4.1242585,-0.6287899,20.761517,-20.761517
+49284,PHI,41.0,23.0,08:50,4.0,3.0,4.0,WAS 25,no_play,"(8:50) (Shotgun) 1-J.Hurts pass incomplete deep right to 88-D.Goedert (11-J.Chinn). PENALTY on WAS-11-J.Chinn, Defensive Pass Interference, 17 yards, enforced at WAS 25 - No Play.",0.9968172,3.4954686,1.817766,22.579283,-22.579283
+49285,PHI,41.0,23.0,08:45,4.0,1.0,8.0,WAS 8,run,(8:45) 88-D.Goedert right end to WAS 4 for 4 yards (54-B.Wagner; 91-C.Davis).,0.99738044,5.313235,0.15795156,22.737234,-22.737234
+49286,PHI,41.0,23.0,08:02,4.0,2.0,4.0,WAS 4,run,"(8:02) (Shotgun) 26-S.Barkley right end for 4 yards, TOUCHDOWN.",0.9985337,5.471186,1.5288137,24.266048,-24.266048
+49287,PHI,47.0,23.0,07:58,4.0,,0.0,WAS 15,extra_point,"4-J.Elliott extra point is GOOD, Center-49-R.Lovato, Holder-10-B.Mann.",0.9995255,0.932427,0.067573,24.33362,-24.33362
+49288,WAS,23.0,48.0,07:58,4.0,,0.0,PHI 35,kickoff,4-J.Elliott kicks 62 yards from PHI 35 to WAS 3. 30-A.Ekeler to WAS 35 for 32 yards (54-J.Trotter).,0.0004745233,1.121784,0.477888,23.855734,-23.855734
+49289,WAS,23.0,48.0,07:51,4.0,1.0,10.0,WAS 35,pass,(7:51) (Shotgun) 5-J.Daniels pass short right to 17-T.McLaurin to WAS 43 for 8 yards (2-D.Slay).,0.00043034964,1.599672,0.6958802,23.159853,-23.159853
+49290,WAS,23.0,48.0,07:33,4.0,2.0,2.0,WAS 43,pass,"(7:33) (No Huddle, Shotgun) 5-J.Daniels pass short left to 86-Z.Ertz pushed ob at WAS 46 for 3 yards (27-Q.Mitchell).",0.00034991562,2.295552,0.09888618,23.060966,-23.060966
+49291,WAS,23.0,48.0,07:06,4.0,1.0,10.0,WAS 46,no_play,"(7:06) (No Huddle, Shotgun) 5-J.Daniels pass short left to 86-Z.Ertz to PHI 49 for 5 yards (32-R.Blankenship). PENALTY on PHI-97-M.Ojomo, Defensive Offside, 5 yards, enforced at WAS 46 - No Play.",0.00045346122,2.3944383,0.49704587,22.563921,-22.563921
+49292,WAS,23.0,48.0,06:55,4.0,1.0,5.0,PHI 49,pass,"(6:55) (No Huddle, Shotgun) 5-J.Daniels pass incomplete short left to 86-Z.Ertz (93-M.Williams).",0.00043161135,2.8914843,-0.4301393,22.99406,-22.99406
+49293,WAS,23.0,48.0,06:52,4.0,2.0,5.0,PHI 49,pass,"(6:52) (No Huddle, Shotgun) 5-J.Daniels pass short left to 14-O.Zaccheaus pushed ob at PHI 43 for 6 yards (33-C.DeJean).",0.00033921996,2.4613447,0.516212,22.477848,-22.477848
+49294,WAS,23.0,48.0,06:29,4.0,1.0,10.0,PHI 43,pass,"(6:29) (No Huddle, Shotgun) 5-J.Daniels pass incomplete short left to 17-T.McLaurin.",0.00047965258,2.977557,-0.4054544,22.883303,-22.883303
+49295,WAS,23.0,48.0,06:23,4.0,2.0,10.0,PHI 43,run,"(6:23) (No Huddle, Shotgun) 30-A.Ekeler left tackle to PHI 39 for 4 yards (58-J.Hunt).",0.0003680624,2.5721025,-0.33430448,23.217607,-23.217607
+49296,WAS,23.0,48.0,05:54,4.0,3.0,6.0,PHI 39,pass,"(5:54) (No Huddle, Shotgun) 5-J.Daniels pass short right to 86-Z.Ertz pushed ob at PHI 29 for 10 yards (33-C.DeJean). WAS-63-T.Biadasz was injured during the play. PHI-2-D.Slay was injured during the play.",0.00034316798,2.237798,1.6436974,21.57391,-21.57391
+49297,WAS,23.0,48.0,05:36,4.0,1.0,10.0,PHI 29,pass,(5:36) (Shotgun) 5-J.Daniels pass incomplete deep left to 86-Z.Ertz.,0.00050153915,3.8814955,-0.40370134,21.977612,-21.977612
+49298,WAS,23.0,48.0,05:31,4.0,2.0,10.0,PHI 29,pass,"(5:31) (No Huddle, Shotgun) 5-J.Daniels pass short right to 30-A.Ekeler to PHI 29 for no gain (42-O.Burks). ** Injury Update: WAS-63-T.Biadasz has returned to the game.",0.0004617271,3.477794,-0.66611576,22.643726,-22.643726
+49299,WAS,23.0,48.0,04:57,4.0,3.0,10.0,PHI 29,pass,"(4:57) (No Huddle, Shotgun) 5-J.Daniels pass deep left intended for 17-T.McLaurin INTERCEPTED by 27-Q.Mitchell at PHI -2. Touchback.",0.00036071468,2.8116782,-3.3560207,25.999746,-25.999746
+49300,PHI,48.0,23.0,04:51,4.0,1.0,10.0,PHI 20,run,(4:51) (Shotgun) 28-W.Shipley left guard to PHI 36 for 16 yards (35-P.Butler).,0.99991095,0.5443423,1.1327231,27.132471,-27.132471
+49301,,,,04:44,4.0,,0.0,PHI 36,no_play,Timeout #1 by WAS at 04:44.,0.9999008,1.6770654,0.0,27.132471,-27.132471
+49302,PHI,48.0,23.0,04:44,4.0,1.0,10.0,PHI 36,run,(4:44) (Shotgun) 28-W.Shipley left tackle to WAS 7 for 57 yards (25-B.St-Juste).,0.9999008,1.6770654,3.5651028,30.697573,-30.697573
+49303,,,,03:53,4.0,,0.0,WAS 7,no_play,Timeout #1 by PHI at 03:53.,0.99989605,5.242168,0.0,30.697573,-30.697573
+49304,PHI,48.0,23.0,03:53,4.0,1.0,7.0,WAS 7,run,(3:53) (Shotgun) 28-W.Shipley left guard to WAS 5 for 2 yards (95-J.Newton).,0.99989605,5.242168,-0.03792479,30.659649,-30.659649
+49305,PHI,48.0,23.0,03:11,4.0,2.0,5.0,WAS 5,no_play,"(3:11) (Shotgun) 28-W.Shipley right tackle to WAS 6 for -1 yards (4-F.Luvu, 90-J.Jean-Baptiste). PENALTY on WAS-4-F.Luvu, Defensive Offside, 3 yards, enforced at WAS 5 - No Play.",0.9998785,5.204243,0.5546345,31.214283,-31.214283
+49306,PHI,48.0,23.0,03:07,4.0,2.0,2.0,WAS 2,run,"(3:07) (Shotgun) 28-W.Shipley left guard for 2 yards, TOUCHDOWN.",0.9998785,5.7588778,1.2411221,32.455406,-32.455406
+49307,PHI,54.0,23.0,03:03,4.0,,0.0,WAS 15,extra_point,"4-J.Elliott extra point is GOOD, Center-49-R.Lovato, Holder-10-B.Mann.",0.9999302,0.932427,0.067573,32.52298,-32.52298
+49308,WAS,23.0,55.0,03:03,4.0,,0.0,PHI 35,kickoff,"4-J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback to the WAS 30.",6.978727e-05,0.8262624,0.35032883,32.17265,-32.17265
+49309,WAS,23.0,55.0,03:03,4.0,1.0,10.0,WAS 30,run,(3:03) (Shotgun) 30-A.Ekeler up the middle to WAS 33 for 3 yards (58-J.Hunt).,6.328832e-05,1.1765912,-0.23258181,32.40523,-32.40523
+49310,WAS,23.0,55.0,02:24,4.0,2.0,7.0,WAS 33,run,(2:24) (Shotgun) 30-A.Ekeler up the middle to WAS 36 for 3 yards (58-J.Hunt).,6.231722e-05,0.9440094,-0.2303268,32.63556,-32.63556
+49311,WAS,23.0,55.0,02:00,4.0,3.0,4.0,WAS 36,run,(2:00) (Shotgun) 30-A.Ekeler up the middle to WAS 37 for 1 yard (43-N.Morrow).,6.102718e-05,0.7136826,-0.7225504,33.35811,-33.35811
+49312,WAS,23.0,55.0,01:20,4.0,4.0,3.0,WAS 37,run,"(1:20) (No Huddle, Shotgun) 30-A.Ekeler up the middle to WAS 37 for no gain (97-M.Ojomo).",5.5815526e-05,-0.008867804,-2.747494,36.105602,-36.105602
+49313,PHI,55.0,23.0,01:14,4.0,1.0,10.0,WAS 37,qb_kneel,(1:14) 7-K.Pickett kneels to WAS 39 for -2 yards.,0.9999515,2.7563617,-0.65012205,35.45548,-35.45548
+49314,PHI,55.0,23.0,00:34,4.0,2.0,12.0,WAS 39,qb_kneel,(:34) 7-K.Pickett kneels to WAS 40 for -1 yards.,0.99995637,2.1062396,-2.1062396,33.34924,-33.34924
+49315,PHI,55.0,23.0,00:00,4.0,,0.0,,,END GAME,,,,33.34924,-33.34924
